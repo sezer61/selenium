@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab1d316f-937c-491b-8928-0fd8d1137957" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/QualitydemyPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ZeroWebAppPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNGFramework/C01_TestNGIlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNGFramework/C02_DependsOnMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNGFramework/C03_NutellaTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNGFramework/C04_HardAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNGFramework/C05_SoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day14_testNGFramework/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day15_SoftAssert/C01_SoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day15_SoftAssert/C02_SoftAssert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day15_SoftAssert/C03_PozitifLoginTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day15_SoftAssert/C04_NegativeLoginTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day16_SmokeTests/C01_PozitifLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day16_SmokeTests/C02_NegetifLoginTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day16_SmokeTests/C03_SwitchingWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day18_htmlReports/C02_DataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/day18_htmlReports/NegatifLoginTesti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/tests/day18_htmlReports/html_reports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/CrossDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseCross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseRapor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmlFiles/CONFİ.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmlFiles/CrossBrowserSiraliCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmlFiles/belirliClasslariParalelCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmlFiles/belirliClasslarıCalıstırma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmlFiles/belirliMerhodlarıCalıstırma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmlFiles/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmlFiles/groups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmlFiles/paralelTestCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xmlFiles/tum.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Js7QeSaju5vQDQBZp47qUGM18n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sezer/IdeaProjects/Testng_&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sezer\IdeaProjects\Testng_" />
+      <recent name="C:\Users\sezer\IdeaProjects\Testng_\src\test\java\pages" />
+      <recent name="C:\Users\sezer\IdeaProjects\Testng_\src\test\java\tests" />
+      <recent name="C:\Users\sezer\IdeaProjects\Testng_\src\test\java\utilities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sezer\IdeaProjects\Testng_\xmlFiles" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.NegatifLoginTesti">
+    <configuration name="C01_SoftAssert" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testng_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day15_SoftAssert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day15_SoftAssert" />
+      <option name="MAIN_CLASS_NAME" value="tests.day15_SoftAssert.C01_SoftAssert" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_PozitifLoginTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testng_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day15_SoftAssert.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day15_SoftAssert" />
+      <option name="MAIN_CLASS_NAME" value="tests.day15_SoftAssert.C03_PozitifLoginTesti" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/sezer/IdeaProjects/Testng_/xmlFiles/belirliClasslariParalelCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testng_" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/belirliClasslariParalelCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/sezer/IdeaProjects/Testng_/xmlFiles/paralelTestCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testng_" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/xmlFiles/paralelTestCalistirma.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NegatifLoginTesti" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testng_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.day18_htmlReports.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.day18_htmlReports" />
+      <option name="MAIN_CLASS_NAME" value="tests.day18_htmlReports.NegatifLoginTesti" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.NegatifLoginTesti" />
+        <item itemvalue="TestNG.C:/Users/sezer/IdeaProjects/Testng_/xmlFiles/paralelTestCalistirma.xml" />
+        <item itemvalue="TestNG.C03_PozitifLoginTesti" />
+        <item itemvalue="TestNG.C:/Users/sezer/IdeaProjects/Testng_/xmlFiles/belirliClasslariParalelCalistirma.xml" />
+        <item itemvalue="TestNG.C01_SoftAssert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab1d316f-937c-491b-8928-0fd8d1137957" name="Changes" comment="" />
+      <created>1672854925456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672854925456</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

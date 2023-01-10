@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Cross Browser Sirali Calistirma">
+    <test name="Cross Browser Chrome Ile Calisacak Testler">
+        <parameter name="browser" value="chrome"></parameter>
+    </test>
+    <test name="Cross Browser Firefox ile Calisacak Testler">
+        <parameter name="browser" value="firefox"></parameter>
+
+
+
+
+    </test>
+</suite>

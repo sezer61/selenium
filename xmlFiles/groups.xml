@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="grop calisma">
+    <test name="Istenen grubu calistirma">
+        <groups>
+            <run>
+                <include name="minirig"></include>
+            </run>
+        </groups>
+        <packages>
+            <package name="tests.day14_testNGFramework"></package>
+            <package name="tests.day15_SoftAssert"></package>
+        </packages>
+    </test>
+</suite>

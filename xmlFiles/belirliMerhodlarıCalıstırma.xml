@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Method Calıstirma" >
+    <test name="Belirli">
+        <classes>
+            <class name="tests.day15_SoftAssert.C04_NegativeLoginTesti">
+                <methods>
+                    <include name="yanlisEmailTesti"></include>
+                </methods>
+            </class>
+            <class name="tests.day16_SmokeTests.C02_NegetifLoginTesti">
+                <methods>
+                    <exclude name="yanlisEmailTesti"></exclude>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
